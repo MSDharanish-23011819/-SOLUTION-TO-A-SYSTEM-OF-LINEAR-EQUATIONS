@@ -23,9 +23,11 @@ A= np.array([[1,3],[2,5]])
 B= np.array([5,-3])
 result= np.linalg.solve(A,B)
 print(result)
+
 ```
 ## Output:
-![output](/lineqn%20output.png)
+![Screenshot 2023-12-19 182037](https://github.com/MSDharanish-23011819/-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS/assets/147139454/af793d3d-270a-4d74-a0a7-9dcb11e2adfd)
+
 ## Result: 
 Thus the solutions for the linear equations are successfully solved using python program
 
